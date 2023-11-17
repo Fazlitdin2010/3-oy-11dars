@@ -1,0 +1,49 @@
+header{
+    background-image: url(./img2/Group\ 3.png);
+}
+
+header nav{
+    background: none;
+}
+
+header .info{
+    background: none;
+}
+
+header nav ul li a{
+    color: white !important;
+}
+
+header nav button.a{
+    background-color: rgba(123, 97, 255, 1) !important;
+}
+
+header nav button.b{
+    border: none !important;
+    color: rgba(123, 97, 255, 1) !important;
+}
+
+header .info button{
+    background-color: rgba(123, 97, 255, 1) !important;
+}
+
+.one .cards p b{
+    color: rgba(123, 97, 255, 1) !important;
+}
+
+.one .card.c2 button{
+    background-color: rgba(51, 110, 225, 1) !important;
+}
+
+.one button.btn{
+    border-color: rgba(51, 110, 225, 1) !important;
+    color: rgba(51, 110, 225, 1) !important;
+}
+
+.three .left button{
+    background-color: rgba(123, 97, 255, 1) !important;
+}
+
+footer .bottom button{
+    background-color: rgba(51, 110, 225, 1) !important;
+}
